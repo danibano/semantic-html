@@ -2,7 +2,6 @@
 
 ## Description
 
-
 Since this is a marketing agency's website I wanted a codebase that follows accessibility standards so the site is optimized for search engines.
 I inserted semantic HTML elements to make the code more readable, such as adding alt attributes to their images, header and footer tags to define the structure more clearly.
 I built this to help me learn the importance of semantic HTML elements and how to make them in a logical structure.
