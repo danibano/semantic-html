@@ -13,19 +13,15 @@ I built this to help me learn the importance of semantic HTML elements and how t
 - [License](#license)
 
 ## Installation
-Just click on the link to access this website test
+Just click on the link to access this website
 
 [Click Here](https://danibano.github.io/semantic-html/)
 
 ## Usage
 
-    ```md
     ![Website Preview](assets/images/Screen%20Shot%202022-12-15%20at%2011.33.37%20PM.png)
-    ```
-
-    ```md
+   
     ![Website Preview](assets/images/Screen%20Shot%202022-12-15%20at%2011.34.09%20PM.png)
-    ```
 
 ## License
 
