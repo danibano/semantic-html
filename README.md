@@ -2,12 +2,10 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+Since this is a marketing agency's website I wanted a codebase that follows accessibility standards so the site is optimized for search engines.
+I inserted semantic HTML elements to make the code more readable, such as adding alt attributes to their images, header and footer tags to define the structure more clearly.
+I built this to help me learn the importance of semantic HTML elements and how to make them in a logical structure.
 
 ## Table of Contents 
 
@@ -16,17 +14,18 @@ Provide a short description explaining the what, why, and how of your project. U
 - [License](#license)
 
 ## Installation
+Just click on the link to access this website
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+[Click Here](https://danibano.github.io/semantic-html/)
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+    ```md
+    ![Website Preview](assets/images/Screen%20Shot%202022-12-15%20at%2011.33.37%20PM.png)
+    ```
 
     ```md
-    ![alt text](assets/images/screenshot.png)
+    ![Website Preview](assets/images/Screen%20Shot%202022-12-15%20at%2011.34.09%20PM.png)
     ```
 
 ## License
