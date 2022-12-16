@@ -19,9 +19,9 @@ Just click on the link to access this website
 
 ## Usage
 
-    ![Website Preview](assets/images/Screen%20Shot%202022-12-15%20at%2011.33.37%20PM.png)
-   
-    ![Website Preview](assets/images/Screen%20Shot%202022-12-15%20at%2011.34.09%20PM.png)
+![Website Preview](./assets/images/Screen%20Shot%202022-12-15%20at%2011.33.37%20PM.png "Website Preview")
+
+![Website Preview](./assets/images/Screen%20Shot%202022-12-15%20at%2011.34.09%20PM.png "Website Preview")
 
 ## License
 
